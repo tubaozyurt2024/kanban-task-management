@@ -23,12 +23,15 @@ This project is a **Kanban Task Management Application** built with React and Vi
    ```bash
    git clone https://github.com/your-username/kanban-task-management.git
    cd kanban-task-management
+   ```
 
 2. **Install dependencies**:
 ```bash
 npm install
+```
 
 3. **Run the application**:
 ```bash
 npm run dev
+```
 The application will run on http://localhost:3000
